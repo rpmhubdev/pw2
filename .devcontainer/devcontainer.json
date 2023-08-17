@@ -22,14 +22,16 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"redhat.vscode-quarkus",
 				"vscjava.vscode-java-pack",
+				"redhat.vscode-quarkus",
+				"redhat.vscode-microprofile-pack",
 				"cweijan.vscode-mysql-client2",
 				"GitHub.copilot",
 				"Equinusocio.vsc-material-theme-icons",
-				"redhat.vscode-microprofile-pack",
 				"eamodio.gitlens",
 				"rangav.vscode-thunder-client",
+				"vscjava.vscode-lombok",
+				"GitHub.vscode-pull-request-github",
 				"streetsidesoftware.code-spell-checker-portuguese-brazilian"
 			],
 			"settings": {
